@@ -1,0 +1,30 @@
+
+
+.main-body {
+    border: 1px solid black;
+    background-image: linear-gradient(#cdb4db, #7209b7);
+    max-width: 1024px;
+    text-align: center;
+    margin: auto;
+    
+}
+
+div {
+    text-align: center;
+}
+
+li {
+    display: inline;
+}
+
+a {
+    text-decoration: none;
+    color: #a2d2ff;
+    margin: 0px 10px;
+}
+
+hr {
+    margin: 15px 100px;
+    background-color: #f72585;
+
+}
